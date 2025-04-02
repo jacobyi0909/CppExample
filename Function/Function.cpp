@@ -28,9 +28,9 @@ int MultiplyRef(int& a, int& b)
 }
 
 // 열거형
-typedef int int32;
+typedef unsigned char uint8;
 
-enum class EPlayerState : int32
+enum class EPlayerState : uint8
 {
     Idle,
     Move,
@@ -47,6 +47,12 @@ enum class EEnemyState
 int main()
 {
     EPlayerState state = EPlayerState::Idle;
+
+    switch (state)
+    {
+        case EPlayerState::Idle:
+            break;
+    }
     
     int i = 10;
     int k = 20;
