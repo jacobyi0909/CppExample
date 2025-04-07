@@ -44,20 +44,73 @@ enum class EEnemyState
 };
 
 
-int main()
-{
-    EPlayerState state = EPlayerState::Idle;
 
-    switch (state)
+
+
+
+int Test()
+{
+    static int a = 10;
+
+    a += 10;
+
+    return a;
+}
+
+class TestCalss
+{
+public:
+    static int Add(int a, int b)
     {
-        case EPlayerState::Idle:
-            break;
+        return a + b;
     }
     
-    int i = 10;
-    int k = 20;
     
-    float result = MultiplyRef(i, k);
-    std::cout << "i : " << i << std::endl;
+    static int number;
+
+};
+int TestCalss::number;
+
+int main()
+{
+    TestCalss tc1;
+    TestCalss tc2;
+    TestCalss tc3;
+
+    tc1.number = 10;
+    tc2.number = 100;
+    tc3.number = 1000;
+
+    std::cout << tc3.number << std::endl;
+
+
+   /* TestCalss::Add(10, 20);
+
+    Test();
+    int result = Test();
+    std::cout << result << std::endl;
+
+*/
+
+
+
+
+
+
+
+
+    //EPlayerState state = EPlayerState::Idle;
+
+    //switch (state)
+    //{
+    //    case EPlayerState::Idle:
+    //        break;
+    //}
+    //
+    //int i = 10;
+    //int k = 20;
+    //
+    //float result = MultiplyRef(i, k);
+    //std::cout << "i : " << i << std::endl;
 }
 
