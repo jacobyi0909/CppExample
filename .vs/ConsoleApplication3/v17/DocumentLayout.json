@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFE946D8-A85D-4D11-9C90-351C650B7066}|Class2\\Class2.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class2\\Class2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFE946D8-A85D-4D11-9C90-351C650B7066}|Class2\\Class2.vcxproj|solutionrelative:Class2\\Class2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1FE9D295-1C59-40D5-A933-50FB28DCB5D0}|SmartPointer\\SmartPointer.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\SmartPointer\\SmartPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FE9D295-1C59-40D5-A933-50FB28DCB5D0}|SmartPointer\\SmartPointer.vcxproj|solutionrelative:SmartPointer\\SmartPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639AC749-F63F-4890-B0F1-D31506DD93C9}|Class\\Class.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{639AC749-F63F-4890-B0F1-D31506DD93C9}|Class\\Class.vcxproj|solutionrelative:Class\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{245E9C37-747F-47B7-BFFF-62C7D7338090}|TemplateExample\\TemplateExample.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\TemplateExample\\TemplateExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{245E9C37-747F-47B7-BFFF-62C7D7338090}|TemplateExample\\TemplateExample.vcxproj|solutionrelative:TemplateExample\\TemplateExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB2A4A7-8BB6-41FF-B587-F3966DA6DF5E}|Casting\\Casting.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Casting\\Casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7CB2A4A7-8BB6-41FF-B587-F3966DA6DF5E}|Casting\\Casting.vcxproj|solutionrelative:Casting\\Casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Macro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|solutionrelative:Macro\\Macro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|solutionrelative:Macro\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D3FF167-3A56-40D1-B7C9-D7B4DFD60BF0}|Macro\\Macro.vcxproj|solutionrelative:Macro\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class2.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class2\\Class2.cpp",
-              "RelativeDocumentMoniker": "Class2\\Class2.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class2\\Class2.cpp",
-              "RelativeToolTip": "Class2\\Class2.cpp",
-              "ViewState": "AgIAABMAAAAAdix3/0DyvyUAAAAgAAAAAAAAAA==",
+              "Title": "SmartPointer.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\SmartPointer\\SmartPointer.cpp",
+              "RelativeDocumentMoniker": "SmartPointer\\SmartPointer.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\SmartPointer\\SmartPointer.cpp",
+              "RelativeToolTip": "SmartPointer\\SmartPointer.cpp",
+              "ViewState": "AgIAAA8AAAAAvYpKmGAowA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T05:38:28.892Z",
+              "WhenOpened": "2025-04-14T05:12:24.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class\\Class.cpp",
-              "RelativeDocumentMoniker": "Class\\Class.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Class\\Class.cpp",
-              "RelativeToolTip": "Class\\Class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Title": "TemplateExample.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\TemplateExample\\TemplateExample.cpp",
+              "RelativeDocumentMoniker": "TemplateExample\\TemplateExample.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\TemplateExample\\TemplateExample.cpp",
+              "RelativeToolTip": "TemplateExample\\TemplateExample.cpp",
+              "ViewState": "AgIAAAAAAAB/Wtf6S1AfwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T05:38:10.254Z",
+              "WhenOpened": "2025-04-14T01:23:20.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Casting.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Casting\\Casting.cpp",
-              "RelativeDocumentMoniker": "Casting\\Casting.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Casting\\Casting.cpp",
-              "RelativeToolTip": "Casting\\Casting.cpp",
-              "ViewState": "AgIAABUAAABA3TYBd+sqwB8AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.cpp",
+              "RelativeDocumentMoniker": "Macro\\Test.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.cpp",
+              "RelativeToolTip": "Macro\\Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T00:00:15.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T00:43:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.h",
+              "RelativeDocumentMoniker": "Macro\\Test.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Test.h",
+              "RelativeToolTip": "Macro\\Test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T00:43:33.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Macro.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Macro.cpp",
+              "RelativeDocumentMoniker": "Macro\\Macro.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApplication3\\Macro\\Macro.cpp",
+              "RelativeToolTip": "Macro\\Macro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T00:27:42.867Z"
             }
           ]
         }
